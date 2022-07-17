@@ -32,3 +32,10 @@ I focused on the above three concepts.
 * 軽量かつ高速な遷移
 * シンプルな構成
 以上、３つに重点を置いて作成しました。
+
+## *Notice*
+*English*
+For my site design, I am using Envato Elements.
+
+*Japanese*
+サイトデザインについては、Envato Elementsを利用させていただいています。
