@@ -18,3 +18,17 @@ My_Portfolioは、エンジニアとして就職するために作成した、�
 このサイトは、Reactを使用した、SPA（シングルページアプリケーション）です。
 
 作品の他に、私の自己紹介も記載しています。
+
+## *Concept*
+
+*English*
+* Intuitive and easy to operate
+* Lightweight and fast transitions
+* Simple structure
+I focused on the above three concepts.
+
+*Japanese*
+* 直感的に操作しやすい
+* 軽量かつ高速な遷移
+* シンプルな構成
+以上、３つに重点を置いて作成しました。
