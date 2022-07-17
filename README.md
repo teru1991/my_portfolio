@@ -35,7 +35,9 @@ I focused on the above three concepts.
 
 ## *Notice*
 *English*
-For my site design, I am using Envato Elements.
+
+For my site design and images and other materials, I am using Envato Elements.
 
 *Japanese*
-サイトデザインについては、Envato Elementsを利用させていただいています。
+
+サイトデザインや画像など素材については、Envato Elementsを利用させていただいています。
